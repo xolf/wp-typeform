@@ -9,11 +9,11 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-The plugin will give you an easy access to all
-A few notes about the sections above:
+The plugin will give you an easy access to all your typeforms. 
+You can easily import your forms with giving the plugin your custom URL:
 
-*   "Contributors" is a comma separated list of wp.org/wp-plugins.org usernames
-*   "Tags" is a comma separated list of tags that apply to the plugin
+*   The plugin will automaticly generate a shortcut code
+*   You can choose if you want to implement it with an iframe, drawer or with a classic pop-up
 *   "Requires at least" is the lowest version that the plugin will work on
 *   "Tested up to" is the highest version that you've *successfully used to test the plugin*. Note that it might work on
 higher versions... this is just the highest one you've verified.
