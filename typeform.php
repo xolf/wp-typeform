@@ -103,8 +103,8 @@ echo ']</textarea>';
 
 function typeform_add_upsell() {
     $page = add_plugins_page(
-        __( 'Typeform', 'typeform' ),
-        __( 'Typeform', 'typeform' ),
+        'Typeform',
+        'Typeform',
         2,
         'typeform-helper',
         'typeform_display_helper'
