@@ -1,7 +1,7 @@
 <?php
 
 /*
-Plugin Name: Typeform for Wordpress
+Plugin Name: Typeform Shortcode
 Plugin URI: http://xolf.info/plugins/typeform
 Description: Brings your awesome type forms to Wordpress. Implement your forms from http://typeform.com with 2 mouse clicks and use them on your website.
 Version: 0.1
