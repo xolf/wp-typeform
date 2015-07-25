@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Typeform for Wordpress ===
 Contributors: FlorianXolf
 Tags: typefom, form, survey
 Requires at least: 3
