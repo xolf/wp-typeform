@@ -3,7 +3,7 @@
 /*
 Plugin Name: Typeform Shortcode
 Plugin URI: http://xolf.info/plugins/typeform
-Description: Brings your awesome type forms to Wordpress. Implement your forms from http://typeform.com with 2 mouse clicks and use them on your website.
+Description: Brings your awesome type forms to Wordpress. Implement your forms from http://typeform.com with 2 mouse clicks and use them on your website. This plugin is not affliated with Typeform.com!
 Version: 0.1
 Author: xolf
 Author URI: http://xolf.info

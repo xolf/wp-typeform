@@ -10,6 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Description ==
 
 The plugin will give you an easy access to all your typeforms. 
+This plugin is not affliated with Typeform.com!
 You can easily import your forms with giving the plugin your custom URL:
 
 *   The plugin will automaticly generate a shortcut code
